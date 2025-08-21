@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[![Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_Now-brightgreen.svg?style=for-the-badge)](https://agri-aid-launchpad.lovable.app)
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-green.svg)](https://python.org)
 [![Machine Learning](https://img.shields.io/badge/ML-TensorFlow-orange.svg)](https://tensorflow.org)
@@ -148,48 +148,9 @@ input_data = {
 | Fertilizer Recommendation | 91.80% | 
 
 
-## 🚀 Getting Started
-
-### Prerequisites
-```bash
-Python 3.8+
-pip package manager
-Git
-```
-
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/swapnil-patil8767/KrishiTech.git
-cd KrishiTech
-```
-
-2. **Create virtual environment**
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. **Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-4. **Run the application**
-```bash
-python app.py
-```
-
-5. **Access the application**
-```
-Open your browser and navigate to: http://localhost:5000
-```
 
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
